@@ -1,7 +1,7 @@
 # Ignorar archivos de configuración de eclipse
 *.classpath
 *.metadata/
-*.prject
+*.project
 *.settings/
 *.class
 
