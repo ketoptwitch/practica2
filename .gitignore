@@ -1,0 +1,9 @@
+# Ignorar archivos de configuración de eclipse
+*.classpath
+*.metadata/
+*.prject
+*.settings/
+*.class
+
+# Ignorar directorio de archivos compilados
+*bin/
